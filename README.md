@@ -20,12 +20,10 @@ I am Thomas Sauvage, a 22-year-old third-year (M2) student at École polytechniq
 
 ### Find more
 
-<a href="https://sauvage.pm">
-<div style="border: 1px solid black; padding: 1.2em; border-radius: 10px; display: flex; align-items: center; width: fit-content">
-    <img src="https://sauvage.pm/photo.jpg" style="border-radius: 100%; width: 7em; height: 7em">
-    <div style="display: flex; flex-direction: column; padding-left: 1em">
-    <h2 style="color: #6a58a5">Visit my website</h2>
-    <p>https://sauvage.pm</p>
-    </div>
-</div>
-</a>
+<img src="https://sauvage.pm/photo.jpg" align="left" style="width: 7em; height: 7em" />
+
+<br />
+
+**Visit my website**
+
+https://sauvage.pm

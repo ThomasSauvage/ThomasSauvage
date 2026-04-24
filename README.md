@@ -1,15 +1,15 @@
 ## Hello! 😁
 
-I am Thomas Sauvage, a 23-year-old third-year (M2) student at École polytechnique and Télécom Paris. I specialize in computer science, specifically in networking, cybersecurity and cloud infrastructure.
+I am Thomas Sauvage, a 23-year-old engineer in fourth and final year at École polytechnique. I am currently completing my specialization year at Télécom Paris. I specialize in computer science, specifically in **cloud infrastructure, networking and cybersecurity**.
 
 ### Education
 
-- 🏫 École polytechnique (Cohort X2022)
-- 🏫 Télécom Paris (Cohort 2027)
+- 🏫 **École polytechnique** (Cohort X2022)
+- 🏫 **Télécom Paris** (Cohort 2027)
 
 ### Experience
 
-- 🌐 **Cisco**: Networking research intern
+- 🌐 **Cisco**: Cloud & networking research intern
 - 🔴 **Free - Iliad Group**: Software engineer intern
 - 🇫🇷 **French army**: Officer, Teacher & Tutor of Mathematics, Physics and Computer Science in preparatory classes
 

@@ -4,11 +4,12 @@ I am Thomas Sauvage, a 23-year-old engineer in fourth and final year at École p
 
 ### Education
 
-- 🏫 **École polytechnique** (Cohort X2022)
-- 🏫 **Télécom Paris** (Cohort 2027)
+- 🏫 **École polytechnique**
+- 🏫 **Télécom Paris**
 
 ### Experience
 
+- 🦊 **Mistral AI**: Applied AI deployment engineer intern
 - 🌐 **Cisco**: Cloud & networking research intern
 - 🔴 **Free - Iliad Group**: Software engineer intern
 - 🇫🇷 **French army**: Officer, Teacher & Tutor of Mathematics, Physics and Computer Science in preparatory classes
@@ -24,6 +25,6 @@ I am Thomas Sauvage, a 23-year-old engineer in fourth and final year at École p
 
 <br />
 
-**Visit my website**
+Visit my website: https://sauvage.pm
 
-https://sauvage.pm
+Contact me: https://sauvage.pm/en#/contact
